@@ -5,6 +5,7 @@
 - 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/sthefania-fernandess">
-<img alt="LinkedIN.png" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png?raw=true" data-hpc="true" width=50px class="Box-sc-g0xbh4-0 kzRgrI">
+<img src="https://www.flaticon.com/br/icone-gratis/linkedin_4494471">
+</a>
 
 
