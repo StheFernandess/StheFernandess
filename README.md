@@ -6,6 +6,6 @@
 
 <a href="https://www.linkedin.com/in/sthefania-fernandess">
 <img src="https://www.flaticon.com/br/icone-gratis/linkedin_4494471">
-</a>
+</a> 
 
 
