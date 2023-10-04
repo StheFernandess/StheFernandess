@@ -5,7 +5,7 @@
 - 📫 How to reach me
 
 <a href="https://www.linkedin.com/in/sthefania-fernandess">
-<img src="https://www.flaticon.com/br/icone-gratis/linkedin_4494471" width=10px>
+<img src="https://www.flaticon.com/br/icone-gratis/linkedin_4494471">
 </a>
 
 
